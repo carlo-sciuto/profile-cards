@@ -1,2 +1,2 @@
 # profileCards
-Simple Random User API Card Component
+Glassmorphism Profile UI Card with NextJS and Api Random User.
